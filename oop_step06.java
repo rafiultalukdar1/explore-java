@@ -3,7 +3,7 @@ public class oop_step06 {
     public static void main(String[] args) {
 
         try {
-            int result = 10 / 2;
+            int result = 10 / 4;
 
             System.out.println(result);
 
